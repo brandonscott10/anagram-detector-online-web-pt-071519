@@ -8,6 +8,7 @@ class Anagram
   end
   
   def match(array_of_words)class Anagram
+  end 
   attr_accessor :word_to_analyze
   
   def initialize(word_to_analyze)
