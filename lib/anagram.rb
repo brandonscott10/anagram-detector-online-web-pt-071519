@@ -7,7 +7,7 @@ class Anagram
     @word = word
   end
   
-  def match(array_of_words)class Anagram
+  def match(array_of_words)
   end 
   attr_accessor :word_to_analyze
   
